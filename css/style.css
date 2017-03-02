@@ -63,17 +63,13 @@ form{
     color: white;
     border-radius: 3px;
 }
-li :hover{
-    background: black;
-    color: white;
-}
+
 
 li{
     margin-top: 5px;
     margin-left: 0px;
-    border-bottom: 1px solid white;
-    width: 90px;
-}
+ }
+
 
 #clari{
     width: 195px;
