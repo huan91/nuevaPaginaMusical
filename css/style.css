@@ -25,7 +25,7 @@ body{
     margin-top:5px;
 }
 hr{
-    width:1000px
+    width:990px
 }
 img{
     position: absolute;
@@ -185,9 +185,17 @@ p{
 }
 #marcas{
     background: gray;
-    width: 1000px;
-    height: 100px;
-
-    
+    padding:10px;    
+    width: 900px;
+    height: 90px;
+    position: relative;
+    margin-top: 509px;
+    margin-left:30px;
+}
+#marcas img{
+    width: 850px;
+    height: 80px;
+    float: right;
+    top: 17px;
 
 }
