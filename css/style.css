@@ -50,22 +50,31 @@ form{
     height:100px;
     background:gray;
     margin-top: 140px;
-    padding: 3px;
-    j
+    padding: 3px;  
+    border-radius: 5px;
 }
 #lista{
     width:220px;
-    height: 300px;
+    height: 340px;
     background: gray;
     margin-top:30px;
     text-align: left;
     padding: 1px;
     color: white;
+    border-radius: 3px;
 }
+li :hover{
+    background: black;
+    color: white;
+}
+
 li{
     margin-top: 5px;
     margin-left: 0px;
+    border-bottom: 1px solid white;
+    width: 90px;
 }
+
 #clari{
     width: 195px;
     height: 130px;
@@ -95,6 +104,9 @@ p{
     background: grey;
     padding: 7px;
     text-align: center;
+}
+.boton:hover{
+    background: black;
 }
 .boton1{    
     left: 280px;   
@@ -191,6 +203,10 @@ p{
     position: relative;
     margin-top: 509px;
     margin-left:30px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    
+    
 }
 #marcas img{
     width: 850px;
@@ -198,4 +214,8 @@ p{
     float: right;
     top: 17px;
 
+}
+h5{
+    text-align: center;
+    margin:5px;
 }
