@@ -103,6 +103,7 @@ p{
 }
 .boton:hover{
     background: black;
+    cursor: pointer;
 }
 .boton1{    
     left: 280px;   
